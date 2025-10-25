@@ -10,14 +10,14 @@ The Fresh Mart Store Owner wants to create an annual sales report for 2025. So t
 
 ## Questions -
 1. Which Region Performed The Best Overall, Which Store Within That Region Generated The Highest Revenue And Which Region Has Underperformed In That Specific Region Region.
-2.Which Category Brought In Most Of The Total Revenue This year. 
+2. Which Category Brought In Most Of The Total Revenue This year. 
 3. Which Products Are my Top 5 Sellers, Which Item Are Not Selling Well (Bottom 5 Products).
-4. Month-Wise Sales trend (In Which Month They Sale Most Of the Products)?
-5. He Suspected That Summer Month (Apr -June) Has The Highest Beverage  Sales , Conform That .
-6.Show Me The Seasonal Trend For Major Categories Like Milk And Fruits 
+4. Month-Wise Sales trend (In Which Month They Sold Most Of the Products)?
+5. The Owner Suspected That Summer Month (Apr - June) Has The Highest Beverage  Sales , Conform That .
+6. Show The Seasonal Trend For Major Categories Like Milk And Fruits 
 7. Compare The Sales Of Jan With Dec To See Did Our year End  Discount Worked Or Not.
-8.How Much did They Actually Lose In Total Discount ? 
-9.Show Average Profit Margin (Profit Gain) by Category (Top 5 Only) ?
+8. How Much did They Actually Lose In Total Discount ? 
+9. Show Average Profit Margin (Profit Gain) by Category (Top 5 Only) ?
 10. Which Payment Mode Is Used Most ?Do some Region Prefer Cash Over Digital ?
 11. Identify Top 10 Customers by Total Yearly Spending?
 
