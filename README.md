@@ -1,2 +1,69 @@
-# Fresh-Mart-Data-Analysis-Project
-A complete Excel data analysis project showcasing FreshMart’s annual grocery sales performance through interactive dashboards and actionable business insights.
+# Fresh Mart Store -Data-Analysis (Interactive Dashboard creation using MS Excel)
+## Project Objective
+The Fresh Mart Store wants to create an annual sales report for 2025. So that, the owner of the Fresh Mart store can understand their customers and grow more sales in Upcoming Years.
+
+## Dataset used
+- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+
+## Questions (KPIs)
+1. Which Region Performed The Best Overall, Which Store Within That Region Generated The Highest Revenue And Which Region Has Underperformed In That Specific Region Region.
+2.Which Category Brought In Most Of The Total Revenue This year. 
+3. Which Products Are my Top 5 Sellers, Which Item Are Not Selling Well (Bottom 5 Products).
+4. Month-Wise Sales trend (In Which Month They Sale Most Of the Products)?
+5. He Suspected That Summer Month (Apr -June) Has The Highest Beverage  Sales , Conform That .
+6.Show Me The Seasonal Trend For Major Categories Like Milk And Fruits 
+8. Compare The Sales Of Jan With Dec To See Did Our year End  Discount Worked Or Not.
+9.How Much did They Actually Lose In Total Discount ? 
+10.Show Average Profit Margin (Profit Gain) by Category (Top 5 Only) ?
+11. Which Payment Mode Is Used Most ?Do some Region Prefer Cash Over Digital ?
+13. Identify Top 10 Customers by Total Yearly Spending?
+
+- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+
+![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+
+## Project Insight
+1. Regional Performance:
+The Central Region contributed the highest share of revenue at ~28%, followed by the East (22%), North (17%), South (16%), and West (15%) regions.
+
+2. Category-Wise Revenue:
+The Household category generated the highest yearly revenue share at ~23%, followed by Bakery (18%) and Snacks (15%) categories.
+
+3. Top & Bottom Products:
+The Top 5 best-selling products were Bread, Cookies, Juice, and Toothpaste, while the least-selling products included Cheese, Chocolate, Curd, Onion, and Tea.
+
+4. Monthly Sales Trends:
+March and August recorded the highest product sales (369 and 352 items respectively), while May and June saw the lowest sales (255 and 260 items).
+
+5. Beverage Sales Insight:
+Summer months (April–June) showed lower sales for beverages, whereas August emerged as the best-performing month, with 90+ beverage products sold.
+
+6. Annual Summary (2025):
+In 2025, Fresh Mart offered a total discount of ₹39,187.50 across various products and categories, generating an overall profit of ₹1,14,488.50 for the year.
+
+7. Category-Wise Profit Margin:
+•	Household: ₹34,969.50 (30.54%)
+•	Bakery: ₹26,192.00 (22.88%)
+•	Snacks: ₹15,574.50 (13.60%)
+•	Fruits & Veggies: ₹11,917.75 (10.41%)
+•	Personal Care: ₹10,920.50 (9.54%)
+•	Beverages: ₹7,925.25 (6.92%)
+•	Dairy: ₹6,989.00 (6.10%)
+
+8. Preferred Payment Methods by Region:
+•	Central Region: UPI – ~44% of total revenue
+•	East Region: Card – ~39% of total revenue
+•	South Region: Cash – ~49% of total revenue
+•	West Region: Cash – ~40% of total revenue
+•	North Region: UPI – ~49% of total revenue
+
+## Final Conclusion:
+To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
