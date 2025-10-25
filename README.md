@@ -1,6 +1,6 @@
 # Fresh Mart Store -Data-Analysis (Interactive Dashboard creation using MS Excel)
 ## Project Objective
-The Fresh Mart Store wants to create an annual sales report for 2025. So that, the owner of the Fresh Mart store can understand their customers and grow more sales in Upcoming Years.
+The Fresh Mart Store Owner wants to create an annual sales report for 2025. So that, the owner of the Fresh Mart store can understand The Busness Condition And Total Profit And Loss In The Business.
 
 ## Dataset used
 - <a href="https://github.com/JadhavDarshan010/Fresh-Mart-Data-Analysis-Project/blob/main/FreshMart_Grocery_Sales_2025%20(Original%20Data).xlsx">Dataset-1</a>
