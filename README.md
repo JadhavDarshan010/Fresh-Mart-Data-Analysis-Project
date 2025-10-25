@@ -65,5 +65,5 @@ In 2025, Fresh Mart offered a total discount of ₹39,187.50 across various prod
 •	West Region: Cash – ~40% of total revenue
 •	North Region: UPI – ~49% of total revenue
 
-## Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+##Conclusion & Next Plan:
+Fresh Mart performed well in 2025, with the Central and East regions leading sales and the Household and Bakery categories driving the most revenue. However, products like Cheese and Tea need better promotion. Summer months showed weak beverage sales, so special offers can help boost them. Focus should be on improving low-performing regions, promoting top categories, and using digital payment rewards to increase customer engagement and profit.
