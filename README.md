@@ -21,7 +21,9 @@ The Fresh Mart Store wants to create an annual sales report for 2025. So that, t
 10. Which Payment Mode Is Used Most ?Do some Region Prefer Cash Over Digital ?
 11. Identify Top 10 Customers by Total Yearly Spending?
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/JadhavDarshan010/Fresh-Mart-Data-Analysis-Project/blob/main/Dashboard-1.png">View Dashboard - 1</a
+
+- Dashboard Interaction <a href="https://github.com/JadhavDarshan010/Fresh-Mart-Data-Analysis-Project/blob/main/Dashboard-2.png">View Dashboard - 2</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -31,7 +33,7 @@ The Fresh Mart Store wants to create an annual sales report for 2025. So that, t
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+![Screenshot (495)](https://github.com/JadhavDarshan010/Fresh-Mart-Data-Analysis-Project/blob/main/Dashboard-1.png)
 
 ## Project Insight
 1. Regional Performance:
