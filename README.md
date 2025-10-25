@@ -32,8 +32,11 @@ The Fresh Mart Store wants to create an annual sales report for 2025. So that, t
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-
+1.
 ![Screenshot (495)](https://github.com/JadhavDarshan010/Fresh-Mart-Data-Analysis-Project/blob/main/Dashboard-1.png)
+
+2.
+![Screenshot (495)](https://github.com/JadhavDarshan010/Fresh-Mart-Data-Analysis-Project/blob/main/Dashboard-2.png)
 
 ## Project Insight
 1. Regional Performance:
