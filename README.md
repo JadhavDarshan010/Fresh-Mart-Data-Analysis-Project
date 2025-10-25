@@ -3,20 +3,23 @@
 The Fresh Mart Store wants to create an annual sales report for 2025. So that, the owner of the Fresh Mart store can understand their customers and grow more sales in Upcoming Years.
 
 ## Dataset used
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+- <a href="https://github.com/JadhavDarshan010/Fresh-Mart-Data-Analysis-Project/blob/main/FreshMart_Grocery_Sales_2025%20(Original%20Data).xlsx">Dataset-1</a>
 
-## Questions (KPIs)
+- <a href="https://github.com/JadhavDarshan010/Fresh-Mart-Data-Analysis-Project/blob/main/FreshMart%20Annual%20Report%20(dashbord).xlsx">Dataset-2 (With Dashboards)</a>
+
+
+## Questions -
 1. Which Region Performed The Best Overall, Which Store Within That Region Generated The Highest Revenue And Which Region Has Underperformed In That Specific Region Region.
 2.Which Category Brought In Most Of The Total Revenue This year. 
 3. Which Products Are my Top 5 Sellers, Which Item Are Not Selling Well (Bottom 5 Products).
 4. Month-Wise Sales trend (In Which Month They Sale Most Of the Products)?
 5. He Suspected That Summer Month (Apr -June) Has The Highest Beverage  Sales , Conform That .
 6.Show Me The Seasonal Trend For Major Categories Like Milk And Fruits 
-8. Compare The Sales Of Jan With Dec To See Did Our year End  Discount Worked Or Not.
-9.How Much did They Actually Lose In Total Discount ? 
-10.Show Average Profit Margin (Profit Gain) by Category (Top 5 Only) ?
-11. Which Payment Mode Is Used Most ?Do some Region Prefer Cash Over Digital ?
-13. Identify Top 10 Customers by Total Yearly Spending?
+7. Compare The Sales Of Jan With Dec To See Did Our year End  Discount Worked Or Not.
+8.How Much did They Actually Lose In Total Discount ? 
+9.Show Average Profit Margin (Profit Gain) by Category (Top 5 Only) ?
+10. Which Payment Mode Is Used Most ?Do some Region Prefer Cash Over Digital ?
+11. Identify Top 10 Customers by Total Yearly Spending?
 
 - Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
 
